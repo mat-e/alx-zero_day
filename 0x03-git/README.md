@@ -1,1 +1,2 @@
-My first read me
+#!/bin/bash
+This is the first read me Updated
